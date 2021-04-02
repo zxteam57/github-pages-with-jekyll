@@ -1,4 +1,4 @@
 ---
-title: "Your blog post title"
+title: "hi"
 date: 2021-04-02
 ---
